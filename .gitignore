@@ -1,0 +1,3 @@
+# KaTeX math library — excluded from git to avoid IBM Vault Radar false positive.
+# GitHub Pages serves this file normally; it does not need to be committed.
+assets/katex-*.js

@@ -1,0 +1,87 @@
+{
+  "title": "Bob Premium for Z",
+  "subtitle": "Bobathon Guide",
+  "labs": [
+    {
+      "id": "lab-setup",
+      "title": "Lab 1: Getting Started",
+      "description": "Set up Bob, scan your workspace, initialize Agent.md, and generate a Data Dictionary.",
+      "file": "lab-setup.md",
+      "duration": "20 min",
+      "difficulty": "Beginner",
+      "icon": "🚀"
+    },
+    {
+      "id": "technical-design",
+      "title": "Lab 2: Technical Design Document",
+      "description": "Generate a comprehensive technical design document from your COBOL codebase with Mermaid diagrams.",
+      "file": "technical-design.md",
+      "duration": "10–15 min",
+      "difficulty": "Beginner",
+      "icon": "📐"
+    },
+    {
+      "id": "understand",
+      "title": "Lab 3: Application Discovery & Understanding",
+      "description": "Explore call graphs, DB2 access graphs, flow charts, complexity reports, and variable data flow across the GENAPP application.",
+      "file": "understand.md",
+      "duration": "30 min",
+      "difficulty": "Beginner",
+      "icon": "🗺️"
+    },
+    {
+      "id": "impact-analysis",
+      "title": "Lab 4: Impact Analysis",
+      "description": "Analyze the ripple effects of a field change across your entire mainframe application landscape.",
+      "file": "impact-analysis.md",
+      "duration": "30 min",
+      "difficulty": "Beginner",
+      "icon": "🔍"
+    },
+    {
+      "id": "dead-code-technical-debt",
+      "title": "Lab 5: Dead Code & Technical Debt",
+      "description": "Surface unreachable paragraphs, unused variables, and orphaned copybooks, then rank every program by a weighted technical debt scorecard.",
+      "file": "dead-code-technical-debt.md",
+      "duration": "60 min",
+      "difficulty": "Intermediate",
+      "icon": "🧹"
+    },
+    {
+      "id": "refactoring",
+      "title": "Lab 6: Refactoring & Service Extraction",
+      "description": "Identify business rules in monolithic COBOL programs, check dependencies, and extract business services for modernization.",
+      "file": "refactoring.md",
+      "duration": "60 min",
+      "difficulty": "Intermediate",
+      "icon": "🔧"
+    },
+    {
+      "id": "spec-driven-code-gen",
+      "title": "Lab 7: Spec-Driven Code Generation",
+      "description": "Use a program specification to generate a complete CICS COBOL program and verify it against requirements.",
+      "file": "spec-driven-code-gen.md",
+      "duration": "45 min",
+      "difficulty": "Intermediate",
+      "icon": "⚙️"
+    },
+    {
+      "id": "ui-modernization",
+      "title": "Lab 8: UI Modernization",
+      "description": "Transform CICS green screen applications into modern web interfaces with REST APIs.",
+      "file": "ui-modernization.md",
+      "duration": "45 min",
+      "difficulty": "Intermediate",
+      "icon": "🖥️"
+    },
+    {
+      "id": "cobol-to-java",
+      "title": "Lab 9: COBOL to Java Modernization",
+      "description": "Analyze a CICS/DB2 COBOL policy update program and convert it to a modern Java 21 Spring Boot service with a REST API and JUnit 5 test suite.",
+      "file": "cobol-to-java.md",
+      "duration": "30–45 min",
+      "difficulty": "Intermediate",
+      "icon": "☕"
+    }
+  ]
+}

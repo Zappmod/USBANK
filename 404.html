@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting…</title>
+  <script>
+    var l = window.location;
+    l.replace(
+      '/USBANK' +
+      '/?p=' + encodeURIComponent(l.pathname.slice('/USBANK'.length) + l.search) +
+      (l.hash ? '&h=' + encodeURIComponent(l.hash) : '')
+    );
+  </script>
+</head>
+<body></body>
+</html>
