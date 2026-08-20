@@ -73,15 +73,6 @@
       "duration": "45 min",
       "difficulty": "Intermediate",
       "icon": "🖥️"
-    },
-    {
-      "id": "cobol-to-java",
-      "title": "Lab 9: COBOL to Java Modernization",
-      "description": "Analyze a CICS/DB2 COBOL policy update program and convert it to a modern Java 21 Spring Boot service with a REST API and JUnit 5 test suite.",
-      "file": "cobol-to-java.md",
-      "duration": "30–45 min",
-      "difficulty": "Intermediate",
-      "icon": "☕"
     }
   ]
 }
